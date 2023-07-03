@@ -1,5 +1,3 @@
-# CRUD API
-## Description
 
 ### Set environment
 
